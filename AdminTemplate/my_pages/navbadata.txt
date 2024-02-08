@@ -1,0 +1,257 @@
+          <nav class="sidebar-nav scroll-sidebar">
+            <ul id="sidebarnav">
+              <!-- ============================= -->
+              <!-- Home -->
+              <!-- ============================= -->
+              <li class="nav-small-cap">
+                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                <span class="hide-menu">Home</span>
+              </li>
+
+
+               <!-- ============================= -->
+              <!-- Home -->
+              <!-- ============================= -->
+              <li class="sidebar-item">
+                <a class="sidebar-link has-arrow" href="index.html" aria-expanded="false">
+                  <span>
+                    <i class="ti ti-home-2"></i>
+                  </span>
+                  <span class="hide-menu">Home</span>
+                </a>
+                <ul aria-expanded="false" class="collapse first-level">
+                  <li class="sidebar-item">
+                    <a href="index.html" class="sidebar-link">
+                      <i class="ti ti-aperture"></i>
+                      <span class="hide-menu">Dashboard</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="index3.html" class="sidebar-link">
+                      <i class="ti ti-activity-heartbeat"></i>
+                      <span class="hide-menu">Account</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="index3.html" class="sidebar-link">
+                      <i class="ti ti-activity-heartbeat"></i>
+                      <span class="hide-menu">Login</span>
+                    </a>
+                  </li>
+
+                </ul>
+              </li>
+              <!-- =================== -->
+              <!-- Teacher -->
+              <!-- =================== -->
+
+
+
+
+              <li class="nav-small-cap">
+                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                <span class="hide-menu">Teacher</span>
+              </li>
+              <li class="sidebar-item">
+                <a class="sidebar-link has-arrow" href="javascript:void(0)" aria-expanded="false">
+                  <span>
+                    <i class="ti ti-archive"></i>
+                  </span>
+                  <span class="hide-menu">Teache</span>
+                </a>
+                <ul aria-expanded="false" class="collapse first-level">
+                    <li class="sidebar-item">
+                        <a href="teacher-table.html" class="sidebar-link">
+                          <i class="ti ti-brand-shopee"></i>
+                          <span class="hide-menu">All Teachers</span>
+                        </a>
+                      </li>
+                  <li class="sidebar-item">
+                    <a href="app-calendar.html" class="sidebar-link">
+                      <i class="ti ti-calendar"></i>
+                      <span class="hide-menu">Add Slot</span>
+                    </a>
+                  </li>
+
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="eco-product-list.html" class="sidebar-link">
+                      <i class="ti ti-list-check"></i>
+                      <span class="hide-menu">Login</span>
+                    </a>
+                  </li>
+                  
+                </ul>
+              </li>
+              <!-- ============================= -->
+              <!-- Studdeents -->
+              <!-- ============================= -->
+              <li class="nav-small-cap">
+                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                <span class="hide-menu">Student</span>
+              </li>
+              <li class="sidebar-item">
+                <a class="sidebar-link has-arrow" href="javascript:void(0)" aria-expanded="false">
+                  <span>
+                    <i class="ti ti-archive"></i>
+                  </span>
+                  <span class="hide-menu">Students</span>
+                </a>
+                <ul aria-expanded="false" class="collapse first-level">
+                    <li class="sidebar-item">
+                        <a href="eco-checkout.html" class="sidebar-link">
+                          <i class="ti ti-brand-shopee"></i>
+                          <span class="hide-menu">Students</span>
+                        </a>
+                      </li>
+                  <li class="sidebar-item">
+                    <a href="app-calendar.html" class="sidebar-link">
+                      <i class="ti ti-calendar"></i>
+                      <span class="hide-menu">Book Slots</span>
+                    </a>
+                  </li>
+
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="eco-product-list.html" class="sidebar-link">
+                      <i class="ti ti-list-check"></i>
+                      <span class="hide-menu">Login</span>
+                    </a>
+                  </li>
+                  
+                </ul>
+              </li>
+              <!-- ============================= -->
+              <!-- Subjects -->
+              <!-- ============================= -->
+              <li class="nav-small-cap">
+                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                <span class="hide-menu">SUBJECTS</span>
+              </li>
+              <li class="sidebar-item">
+                <a class="sidebar-link has-arrow" href="javascript:void(0)" aria-expanded="false">
+                  <span>
+                    <i class="ti ti-notebook"></i>
+                  </span>
+                  <span class="hide-menu">Subjects</span>
+                </a>
+                <ul aria-expanded="false" class="collapse first-level">
+                  <li class="sidebar-item">
+                    <a href="page-faq.html" class="sidebar-link">
+                      <i class="ti ti-help"></i>
+                      <span class="hide-menu">Show All Subjects</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="page-account-settings.html" class="sidebar-link">
+                      <i class="ti ti-user-circle"></i>
+                      <span class="hide-menu">Account Setting</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="page-pricing.html" class="sidebar-link">
+                      <i class="ti ti-currency-dollar"></i>
+                      <span class="hide-menu">Pricing</span>
+                    </a>
+                  </li>
+                  <!-- <li class="sidebar-item">
+                    <a href="widgets-cards.html" class="sidebar-link">
+                      <i class="ti ti-cards"></i>
+                      <span class="hide-menu">Card</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="widgets-banners.html" class="sidebar-link">
+                      <i class="ti ti-ad"></i>
+                      <span class="hide-menu">Banner</span>
+                    </a>
+                  </li> -->
+                  <!-- <li class="sidebar-item">
+                    <a href="widgets-charts.html" class="sidebar-link">
+                      <i class="ti ti-chart-bar"></i>
+                      <span class="hide-menu">Charts</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/landingpage/index.html" class="sidebar-link">
+                      <i class="ti ti-app-window"></i>
+                      <span class="hide-menu">Landing Page</span>
+                    </a>
+                  </li> -->
+                </ul>
+              </li>
+              <!-- ============================= -->
+
+              <!-- ============================= -->
+              <!-- Tables -->
+              <!-- ============================= -->
+              <li class="nav-small-cap">
+                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                <span class="hide-menu">Tables</span>
+              </li>
+              <!-- =================== -->
+              <!-- Bootstrap Table -->
+              <!-- =================== -->
+              <li class="sidebar-item">
+                <a class="sidebar-link has-arrow" href="#" aria-expanded="false">
+                  <span class="rounded-3">
+                    <i class="ti ti-layout-sidebar"></i>
+                  </span>
+                  <span class="hide-menu">Tables</span>
+                </a>
+                <ul aria-expanded="false" class="collapse first-level">
+                  <li class="sidebar-item">
+                    <a href="table-basic.html" class="sidebar-link">
+                      <i class="ti ti-circle"></i>
+                      <span class="hide-menu">Student Table</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="table-dark-basic.html" class="sidebar-link">
+                      <i class="ti ti-circle"></i>
+                      <span class="hide-menu">Subject Table</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="table-sizing.html" class="sidebar-link">
+                      <i class="ti ti-circle"></i>
+                      <span class="hide-menu">Department Table</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="table-layout-coloured.html" class="sidebar-link">
+                      <i class="ti ti-circle"></i>
+                      <span class="hide-menu">Teacher Table</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="table-datatable-basic.html" class="sidebar-link">
+                      <i class="ti ti-circle"></i>
+                      <span class="hide-menu">Booking Slot Table</span>
+                    </a>
+                  <!-- </li>
+                  <li class="sidebar-item">
+                    <a href="table-datatable-api.html" class="sidebar-link">
+                      <i class="ti ti-circle"></i>
+                      <span class="hide-menu">API</span>
+                    </a>
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="table-datatable-advanced.html" class="sidebar-link">
+                      <i class="ti ti-circle"></i>
+                      <span class="hide-menu">Advanced Initialisation</span>
+                    </a>
+                  </li> -->
+                </ul>
+              </li>
+              <!-- ============================= -->
+              <!-- Charts -->
+              <!-- ============================= -->
+              <li class="nav-small-cap">
+                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                <span class="hide-menu">Charts</span>
+              </li>
+                        
+            </ul>
+
+          </nav>
